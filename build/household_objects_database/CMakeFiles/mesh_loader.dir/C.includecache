@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/catkin_ws/src/household_objects_database/ply/ply.h
+stdio.h
+-
+stddef.h
+-
+
+/home/victor/catkin_ws/src/household_objects_database/src/ply.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+ply.h
+-
+

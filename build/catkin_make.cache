@@ -1,0 +1,2 @@
+capture:household_objects_database:linemod:object_recognition_core:object_recognition_msgs:object_recognition_ros:object_recognition_ros_visualization:ork_renderer:reconstruction:sql_database:tabletop:tod:transparent_objects
+-DCATKIN_DEVEL_PREFIX=/home/victor/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/victor/catkin_ws/install -G Unix Makefiles

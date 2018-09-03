@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/catkin_ws/src/household_objects_database/ply/mesh_loader.h
+vector
+-
+string
+-
+ply.h
+-
+
+/home/victor/catkin_ws/src/household_objects_database/ply/ply.h
+stdio.h
+-
+stddef.h
+-
+
+/home/victor/catkin_ws/src/household_objects_database/src/mesh_loader.cpp
+mesh_loader.h
+/home/victor/catkin_ws/src/household_objects_database/src/mesh_loader.h
+iostream
+-
+
